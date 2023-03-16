@@ -1,7 +1,7 @@
 # groupRed
 
-後藤智# groupRed1
+後藤智
 
 安澤レオ
 
-池田拓武
+後藤智
