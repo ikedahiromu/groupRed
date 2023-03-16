@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-後藤智# groupRed
+後藤智# groupRed1
 =======
 # groupRed
 <<<<<<< HEAD
